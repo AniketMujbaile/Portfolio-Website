@@ -1,112 +1,212 @@
-[
-  {
-    "name": "Employee Review System",
-    "desc": "This Employee review web application is created for employees to submit feedback toward each other's performance. ",
-    "image": "emprevsys",
-    "category": "node",
-    "links": {
-      "view": "https://employee-review-system-ze20.onrender.com/",
-      "code": "https://github.com/AniketMujbaile/Employee-Review-System"
+ [
+    {
+      "name": "Employee Review System",
+      "desc": "This Employee review web application is created for employees to submit feedback toward each other's performance. ",
+      "image": "emprevsys",
+      "category": "node",
+      "links": {
+        "view": "https://employee-review-system-ze20.onrender.com/",
+        "code": "https://github.com/AniketMujbaile/Employee-Review-System"
+      }
+    },
+    {
+      "name": "Issue Tracker",
+      "desc": "User can Create a new project Check the details of the project Create a new issue for the bug present in the project Filter the issues",
+      "image": "issuetracker",
+      "category": "node",
+      "links": {
+        "view": "https://issue-tracker-rhhe.onrender.com/",
+        "code": "https://github.com/AniketMujbaile/Issue-Tracker"
+      }
+    },
+    {
+      "name": "Polling API",
+      "desc": "Create an API where anyone can create questions with options and also add votes to it",
+      "image": "pollingapi",
+      "category": "node",
+      "links": {
+        "view": "https://polling-api-4sh1.onrender.com/",
+        "code": "https://github.com/AniketMujbaile/Polling-API"
+      }
+    },
+    {
+      "name": "ToDo App",
+      "desc": "It is a simple TODO application using NodeJS and MongDB. where a user of this application can create,edit and delete all the ToDo items.",
+      "image": "todoapp",
+      "category": "node",
+      "links": {
+        "view": "#",
+        "code": "https://github.com/AniketMujbaile/TODO-APP"
+      }
+    },
+    {
+      "name": "Social Media",
+      "desc": "Develop a RESTful API for handling social media data, including posts, comments, and user profiles.",
+      "image": "socialapp",
+      "category": "mern",
+      "links": {
+        "view": "https://socialapp-4360e24a13f2.herokuapp.com/",
+        "code": "https://github.com/AniketMujbaile/SocialMedia"
+      }
+    },
+    {
+      "name": "Habit Tracker",
+      "desc": "React app to start tracking habits for next seven days. we can add, delete and change status of each habit for a day.",
+      "image": "habittracker",
+      "category": "react",
+      "links": {
+        "view": "https://warm-froyo-40d784.netlify.app/",
+        "code": "https://github.com/AniketMujbaile/Habit-Tracker"
+      }
+    },
+    {
+      "name": "React ToDoApp",
+      "desc": "Build a CRUD application with React and Redux. Use Redux toolkit to build this todo app with cool animations using framer-motion.",
+      "image": "reacttodo",
+      "category": "react",
+      "links": {
+        "view": "https://dancing-trifle-78ea13.netlify.app/",
+        "code": "https://github.com/AniketMujbaile/React-ToDoApp"
+      }
+    },
+    {
+      "name": "Buy Busy",
+      "desc": "This is an online shopping / eCommerce website made using Reactjs, firebase database for storing data on cloud and ContextAPI for store state and creating functions.",
+      "image": "buybusy",
+      "category": "react",
+      "links": {
+        "view": "https://remarkable-hamster-b32fd6.netlify.app/",
+        "code": "https://github.com/AniketMujbaile/buyBusy"
+      }
+    },
+    {
+      "name": "I-Pod",
+      "desc": "This is a Mini Ipod App Project which is built using React, CSS, Javascript. It is responsive across all devices.",
+      "image": "ipod",
+      "category": "react",
+      "links": {
+        "view": "https://i-pod-vhmz.onrender.com/",
+        "code": "https://github.com/AniketMujbaile/I-Pod"
+      }
+    },
+    {
+      "name": "IMDB Clone",
+      "desc": "A mini IMDB clone app in which we can search movies based on OMDB API, with search suggestions. Clicking on a particular movie card opens a new movie page for more info. On clicking on the favourite button, we can add a movie to the favourite list which is using local storage to store movies.",
+      "image": "moviepage",
+      "category": "basicweb",
+      "links": {
+        "view": "https://aniketmujbaile.github.io/IMDB-Clone/",
+        "code": "https://github.com/AniketMujbaile/IMDB-Clone"
+      }
+    },
+    {
+      "name": "ToDo List",
+      "desc": "This is a simple Todo app built using HTML, CSS, and JavaScript.",
+      "image": "todo",
+      "category": "basicweb",
+      "links": {
+        "view": "https://aniketmujbaile.github.io/ToDo-List/",
+        "code": "https://github.com/AniketMujbaile/ToDo-List"
+      }
+    },
+    {
+        "name": "Sales Dasboard",
+        "desc": "This project is a React-based sales dashboard application that visualizes sales data using charts and tables. It features two main dashboards: Today's Sales and Sales Comparison.",
+        "image": "sales-dasboard",
+        "category": "react",
+        "links": {
+          "view": "https://keen-wisp-277613.netlify.app",
+          "code": "https://github.com/AniketMujbaile/sales-dashboard"
+        }
+    },
+    {
+        "name": "Movie WatchList",
+        "desc": "The Movie Watchlist application is a web-based tool that allows users to manage a list of movies they want to watch. Users can add, edit, and delete movies from their watchlist, mark movies as watched or unwatched, and rate and review movies. State management will be handled using Redux to ensure efficient and predictable state updates.",
+        "image": "movie-watchlist",
+        "category": "react",
+        "links": {
+          "view": "https://movie-watchlist-client.vercel.app",
+          "code": "https://github.com/AniketMujbaile/movie-watchlist-client"
+        }
+    },
+    {
+        "name": "Bharat Bridal Week",
+        "desc": "This is Bharat Bridal Week Project made using Reactjs, TailwindCSS",
+        "image": "bbw",
+        "category": "react",
+        "links": {
+          "view": "https://bbw-gold.vercel.app/",
+          "code": "https://github.com/AniketMujbaile/BBW"
+        }
+    },
+    {
+        "name": "Goa Resort Week",
+        "desc": "This is Goa Resort Week Project made using Reactjs, TailwindCSS",
+        "image": "grw",
+        "category": "react",
+        "links": {
+          "view": "https://grw-beta.vercel.app",
+          "code": "https://github.com/AniketMujbaile/GRW"
+        }
+    },
+    {
+        "name": "Wishy Washy",
+        "desc": "This is Wishy Washy Project made using Reactjs, TailwindCSS",
+        "image": "wish-washy",
+        "category": "react",
+        "links": {
+          "view": "https://wishy-washy.vercel.app",
+          "code": "https://github.com/AniketMujbaile/wishy-washy"
+        }
+    },
+    {
+        "name": "Finmap",
+        "desc": "This is Finmap Project made using Reactjs, TailwindCSS",
+        "image": "finmap",
+        "category": "react",
+        "links": {
+          "view": "https://finmap-steel.vercel.app/admin-dashboard",
+          "code": "https://github.com/AniketMujbaile/finmap"
+        }
+    },
+    {
+        "name": "Imeleo NextJs",
+        "desc": "This is Imeleo NextJs Project made using Reactjs, NextJs, TypeScript, TailwindCSS",
+        "image": "imeleo",
+        "category": "mern",
+        "links": {
+          "view": "https://imeleo-nextjs.vercel.app",
+          "code": "https://github.com/AniketMujbaile/imeleo-nextjs"
+        }
+    },
+    {
+        "name": "Educational Learning Opportunities Landing Page",
+        "desc": "This is Educational Learning Opportunities Landing Page Project made using Reactjs, TailwindCSS",
+        "image": "learning-opportunities",
+        "category": "react",
+        "links": {
+          "view": "https://learning-opportunities.vercel.app",
+          "code": "https://github.com/AniketMujbaile/learning-opportunities"
+        }
+    },
+    {
+        "name": "College Finder",
+        "desc": "The College Finder Web App simplifies the college search process for students and parents. It offers detailed information on colleges, including rankings, placement stats, user ratings, and more. Find the perfect college based on course, location, fees, and other criteria.",
+        "image": "college",
+        "category": "react",
+        "links": {
+          "view": "https://colleges-two.vercel.app",
+          "code": "https://github.com/AniketMujbaile/colleges"
+        }
+    },
+    {
+        "name": "Pizza Store",
+        "desc": "Created an application which simulates a pizza restaurant behavior. From taking orders to making the order ready.",
+        "image": "pizza-store",
+        "category": "react",
+        "links": {
+          "view": "https://fastidious-brioche-27d84b.netlify.app",
+          "code": "https://github.com/AniketMujbaile/pizza-store"
+        }
     }
-  },
-  {
-    "name": "Issue Tracker",
-    "desc": "User can Create a new project Check the details of the project Create a new issue for the bug present in the project Filter the issues",
-    "image": "issuetracker",
-    "category": "node",
-    "links": {
-      "view": "https://issue-tracker-rhhe.onrender.com/",
-      "code": "https://github.com/AniketMujbaile/Issue-Tracker"
-    }
-  },
-  {
-    "name": "Polling API",
-    "desc": "Create an API where anyone can create questions with options and also add votes to it",
-    "image": "pollingapi",
-    "category": "node",
-    "links": {
-      "view": "https://polling-api-4sh1.onrender.com/",
-      "code": "https://github.com/AniketMujbaile/Polling-API"
-    }
-  },
-  {
-    "name": "ToDo App",
-    "desc": "It is a simple TODO application using NodeJS and MongDB. where a user of this application can create,edit and delete all the ToDo items.",
-    "image": "todoapp",
-    "category": "node",
-    "links": {
-      "view": "#",
-      "code": "https://github.com/AniketMujbaile/TODO-APP"
-    }
-  },
-  {
-    "name": "Social Media",
-    "desc": "Develop a RESTful API for handling social media data, including posts, comments, and user profiles.",
-    "image": "socialapp",
-    "category": "mern",
-    "links": {
-      "view": "https://socialapp-4360e24a13f2.herokuapp.com/",
-      "code": "https://github.com/AniketMujbaile/SocialMedia"
-    }
-  },
-  {
-    "name": "Habit Tracker",
-    "desc": "React app to start tracking habits for next seven days. we can add, delete and change status of each habit for a day.",
-    "image": "habittracker",
-    "category": "react",
-    "links": {
-      "view": "https://warm-froyo-40d784.netlify.app/",
-      "code": "https://github.com/AniketMujbaile/Habit-Tracker"
-    }
-  },
-  {
-    "name": "React ToDoApp",
-    "desc": "Build a CRUD application with React and Redux. Use Redux toolkit to build this todo app with cool animations using framer-motion.",
-    "image": "reacttodo",
-    "category": "react",
-    "links": {
-      "view": "https://dancing-trifle-78ea13.netlify.app/",
-      "code": "https://github.com/AniketMujbaile/React-ToDoApp"
-    }
-  },
-  {
-    "name": "Buy Busy",
-    "desc": "This is an online shopping / eCommerce website made using Reactjs, firebase database for storing data on cloud and ContextAPI for store state and creating functions.",
-    "image": "buybusy",
-    "category": "react",
-    "links": {
-      "view": "https://remarkable-hamster-b32fd6.netlify.app/",
-      "code": "https://github.com/AniketMujbaile/buyBusy"
-    }
-  },
-  {
-    "name": "I-Pod",
-    "desc": "This is a Mini Ipod App Project which is built using React, CSS, Javascript. It is responsive across all devices.",
-    "image": "ipod",
-    "category": "react",
-    "links": {
-      "view": "https://i-pod-vhmz.onrender.com/",
-      "code": "https://github.com/AniketMujbaile/I-Pod"
-    }
-  },
-  {
-    "name": "IMDB Clone",
-    "desc": "A mini IMDB clone app in which we can search movies based on OMDB API, with search suggestions. Clicking on a particular movie card opens a new movie page for more info. On clicking on the favourite button, we can add a movie to the favourite list which is using local storage to store movies.",
-    "image": "moviepage",
-    "category": "basicweb",
-    "links": {
-      "view": "https://aniketmujbaile.github.io/IMDB-Clone/",
-      "code": "https://github.com/AniketMujbaile/IMDB-Clone"
-    }
-  },
-  {
-    "name": "ToDo List",
-    "desc": "This is a simple Todo app built using HTML, CSS, and JavaScript.",
-    "image": "todo",
-    "category": "basicweb",
-    "links": {
-      "view": "https://aniketmujbaile.github.io/ToDo-List/",
-      "code": "https://github.com/AniketMujbaile/ToDo-List"
-    }
-  }
-]
+  ]
