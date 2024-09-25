@@ -45,7 +45,7 @@
       "image": "socialapp",
       "category": "mern",
       "links": {
-        "view": "https://socialapp-4360e24a13f2.herokuapp.com/",
+        "view": "https://mern-chat-app-0rci.onrender.com",
         "code": "https://github.com/AniketMujbaile/SocialMedia"
       }
     },
@@ -177,6 +177,16 @@
         "links": {
           "view": "https://imeleo-nextjs.vercel.app",
           "code": "https://github.com/AniketMujbaile/imeleo-nextjs"
+        }
+    },
+    {
+        "name": "MERN TODO",
+        "desc": "This is a Todo App built with React.js for the frontend, Node.js and Express for the backend, and PostgreSQL for the database.",
+        "image": "mern-todo",
+        "category": "react",
+        "links": {
+          "view": "https://github.com/AniketMujbaile/MERN-ToDo",
+          "code": "https://mern-to-do-seven.vercel.app/login"
         }
     },
     {
