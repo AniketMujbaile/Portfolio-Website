@@ -49,6 +49,16 @@
         "code": "https://github.com/AniketMujbaile/SocialMedia"
       }
     },
+   {
+        "name": "MERN Chat App",
+        "desc": "Chat App is a MERN Stack Chatting App. Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.",
+        "image": "chatapp",
+        "category": "mern",
+        "links": {
+          "view": "https://mern-chat-app-0rci.onrender.com/",
+          "code": "https://github.com/AniketMujbaile/mern-chat-app"
+        }
+      },
     {
       "name": "Habit Tracker",
       "desc": "React app to start tracking habits for next seven days. we can add, delete and change status of each habit for a day.",
